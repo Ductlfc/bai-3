@@ -16,6 +16,7 @@
   float: left;
   width: 20%;
   height: 450px;
+  display: block;
 }
 .main {
   border: 1px solid black;
@@ -33,4 +34,11 @@
 }
 body {
   background-image: linear-gradient(rgba(255, 0, 0, 0.178), red);
+}
+.mot {
+  border: 1px solid black;
+  margin: 5px;
+  text-align: center;
+  padding: 30px;
+  color: red;
 }
