@@ -1,0 +1,36 @@
+.container {
+  width: 90%;
+  margin: auto;
+}
+.footer {
+  background-color: rgb(218, 89, 159);
+  height: 80px;
+  clear: both;
+}
+.header {
+  background-color: rgb(218, 89, 159);
+  height: 80px;
+}
+.left {
+  background-color: aqua;
+  float: left;
+  width: 20%;
+  height: 450px;
+}
+.main {
+  border: 1px solid black;
+  background-color: rgb(100, 30, 170);
+  float: left;
+  width: 60%;
+  height: 450px;
+  box-sizing: border-box;
+}
+.right {
+  background-color: brown;
+  width: 20%;
+  height: 450px;
+  float: left;
+}
+body {
+  background-image: linear-gradient(rgba(255, 0, 0, 0.178), red);
+}
